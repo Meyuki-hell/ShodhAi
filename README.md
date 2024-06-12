@@ -1,4 +1,4 @@
-## Problem Statement 2 (Required for ML Applications) :
+## Problem Statement 2 (Required for ML Applications) : OPTION B
 Task: 
 Implement a Neural Network for a Logic Gate or MNIST Dataset and Create a Visualisation
 
